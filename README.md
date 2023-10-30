@@ -18,14 +18,14 @@ This research aims to explore the dynamics of psychological safety within agile 
 
 Here is a brief explanation of what each file in this repository does:
 
-- **Interviews PDFs**: Contains transcripts of interviews conducted for the study.
+- **Interviews PDFs**: Contains transcripts of interviews conducted for Phase 1 of the study.
 - **Factor Analysis.xlsx**: Excel file with factor analysis of survey data.
 - **Interview Guide.xlsx**: Questionnaire guide used for conducting interviews.
-- **Dataset Replication Package.xlsx**: Comprehensive dataset for replicating the Journal of Software Systems results.
-- **Replication Package Data.sav**: SPSS data file related to the JSS publication.
-- **Replication Package Output.spv**: SPSS output file containing statistical results for JSS paper.
+- **Dataset Replication Package.xlsx**: Comprehensive dataset for replicating the results.
+- **Replication Package Data.sav**: SPSS data file of the analysis.
+- **Replication Package Output.spv**: SPSS output file containing statistical results.
 - **PLS-SEM results.xlsx**: Excel sheet with Partial Least Squares Structural Equation Modeling results.
-- **PS 2022 SPSS Pilot data.sav**: SPSS data file for the 2022 pilot study.
+- **PS 2022 SPSS Pilot data.sav**: SPSS data file for the pilot study.
 - **Phase 1 - Data Analysis - First Cycle.xlsx**: First cycle of data analysis for Phase 1.
 - **Phase 1 - Data Analysis - Second Cycle.xlsx**: Second cycle of data analysis for Phase 1.
 - **Prescreening survey - web pages.pdf**: PDF of the prescreening survey web pages.
